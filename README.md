@@ -3,6 +3,7 @@ Aplicación Android desarrollada en Kotlin con Jetpack Compose que utiliza el Fu
 
 
 Archivos Generados
+
 📦 Dos versiones disponibles:
 
 APK Debug - Para pruebas y desarrollo
