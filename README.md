@@ -6,6 +6,7 @@ Archivos Generados
 📦 Dos versiones disponibles:
 
 APK Debug - Para pruebas y desarrollo
+
 APK Release - Versión firmada para distribución
 
 Notas Técnicas
